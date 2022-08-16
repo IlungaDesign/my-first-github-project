@@ -1,0 +1,17 @@
+body {
+    font-family: Poppins;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: black;
+}
+
+h {
+    font-weight: bolder;
+    color: darkgreen;
+
+}
