@@ -13,5 +13,8 @@ p {
 h {
     font-weight: bolder;
     color: darkgreen;
+}
 
+.mike-1 p{
+    color: dodgerblue;
 }
